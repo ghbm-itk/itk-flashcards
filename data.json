@@ -1,0 +1,483 @@
+{
+    "attributes": [
+        "Navn",
+        "Stilling",
+        "Afdeling"
+    ],
+    "cards": [
+        {
+          "Navn": "Marie Broe",
+          "Stilling": "Projektmedarbejder",
+          "Afdeling": "TechLab",
+          "image": "images/dscf0630.png"
+        },
+        {
+          "Navn": "Mathilde Bech Epstein",
+          "Stilling": "Projektleder",
+          "Afdeling": "TechLab",
+          "image": "images/mathilde.jpg"
+        },
+        {
+          "Navn": "Søren Hald",
+          "Stilling": "Projektleder",
+          "Afdeling": "TechLab",
+          "image": "images/dscf1036.png"
+        },
+        {
+          "Navn": "Anne Hove Henriksen",
+          "Stilling": "IoT-konsulent",
+          "Afdeling": "TechLab",
+          "image": "images/skabelon-til-ny-medarbejder-5-cropped.png"
+        },
+        {
+          "Navn": "Alexander Ibsen",
+          "Stilling": "Projektmedarbejder",
+          "Afdeling": "TechLab",
+          "image": "images/dscf0661.png"
+        },
+        {
+          "Navn": "Søren Lundsgaard Jørgensen",
+          "Stilling": "Jedi",
+          "Afdeling": "TechLab",
+          "image": "images/img_0451_soren.jpg"
+        },
+        {
+          "Navn": "Amina Lykke Haibeh",
+          "Stilling": "Jedi",
+          "Afdeling": "TechLab",
+          "image": "images/skabelon-til-ny-medarbejder-5-cropped.png"
+        },
+        {
+          "Navn": "Daniel Jung Moltzen",
+          "Stilling": "Jedi",
+          "Afdeling": "TechLab",
+          "image": "images/dscf0720.png"
+        },
+        {
+          "Navn": "Kim Stannov Søvsø",
+          "Stilling": "Afdelingsleder for ITK City Lab",
+          "Afdeling": "TechLab",
+          "image": "images/4l9a0291_web.jpg"
+        },
+        {
+          "Navn": "Anna Bøgelund Christensen",
+          "Stilling": "Teknisk projektleder",
+          "Afdeling": "Development",
+          "image": "images/dscf0999.png"
+        },
+        {
+          "Navn": "Ture Gjørup",
+          "Stilling": "Webudvikler",
+          "Afdeling": "Development",
+          "image": "images/ture_gjcrup_0072web.jpg"
+        },
+        {
+          "Navn": "Sine Jespersen",
+          "Stilling": "Frontend udvikler",
+          "Afdeling": "Development",
+          "image": "images/sine_jespersen.jpg"
+        },
+        {
+          "Navn": "Daniel Kjeldsmark Andreasen",
+          "Stilling": "Data Specialist",
+          "Afdeling": "Development",
+          "image": "images/daniel-cropped.png"
+        },
+        {
+          "Navn": "Jesper Kristensen",
+          "Stilling": "Webudvikler",
+          "Afdeling": "Development",
+          "image": "images/jesper.jpg"
+        },
+        {
+          "Navn": "Martin Kristiansen",
+          "Stilling": "Lærling, Webintegrator",
+          "Afdeling": "Development",
+          "image": "images/martin-cropped.png"
+        },
+        {
+          "Navn": "Jeppe Julius Krogh",
+          "Stilling": "Jedi",
+          "Afdeling": "Development",
+          "image": "images/jeppekrogh.jpg"
+        },
+        {
+          "Navn": "Anders Krogsager",
+          "Stilling": "IT konsulent",
+          "Afdeling": "Development",
+          "image": "images/anders_0.jpg"
+        },
+        {
+          "Navn": "Jeppe Kuhlmann Andersen",
+          "Stilling": "Webudvikler",
+          "Afdeling": "Development",
+          "image": "images/dscf1007.png"
+        },
+        {
+          "Navn": "Jesper Pedersen",
+          "Stilling": "Frontend Designer",
+          "Afdeling": "Development",
+          "image": "images/img_2075_jesper_pedersen.jpg"
+        },
+        {
+          "Navn": "Niels Schmidt Petersen",
+          "Stilling": "Teknisk Projektleder",
+          "Afdeling": "Development",
+          "image": "images/niels.jpg"
+        },
+        {
+          "Navn": "Lene Lykke Rafn",
+          "Stilling": "Afdelingsleder for ITK Development",
+          "Afdeling": "Development",
+          "image": "images/4l9a0018_web.jpg"
+        },
+        {
+          "Navn": "Mikkel Ricky",
+          "Stilling": "Webudvikler",
+          "Afdeling": "Development",
+          "image": "images/mikkel.jpg"
+        },
+        {
+          "Navn": "Line Løfquist Stiil",
+          "Stilling": "Teknisk Projektleder",
+          "Afdeling": "Development",
+          "image": "images/line.jpg"
+        },
+        {
+          "Navn": "Iben Uldahl Søndergård",
+          "Stilling": "Teknisk Projektleder",
+          "Afdeling": "Development",
+          "image": "images/dscf1059.png"
+        },
+        {
+          "Navn": "Pernille Thorsen",
+          "Stilling": "Teknisk projektleder",
+          "Afdeling": "Development",
+          "image": "images/pernille.jpg"
+        },
+        {
+          "Navn": "Troels Ugilt Jensen",
+          "Stilling": "Webudvikler",
+          "Afdeling": "Development",
+          "image": "images/dscf1148.png"
+        },
+        {
+          "Navn": "Martin Yde Granath",
+          "Stilling": "Webudvikler",
+          "Afdeling": "Development",
+          "image": "images/martiny.jpg"
+        },
+        {
+          "Navn": "Tommy Andersen",
+          "Stilling": "IT-medarbejder",
+          "Afdeling": "Digital",
+          "image": "images/tommy.jpg"
+        },
+        {
+          "Navn": "Gitte Barlach",
+          "Stilling": "Teknisk Projektleder",
+          "Afdeling": "Digital",
+          "image": "images/gitte.jpg"
+        },
+        {
+          "Navn": "Dennis Borup Jakobsen",
+          "Stilling": "IT-medarbejder",
+          "Afdeling": "Digital",
+          "image": "images/dennis.jpg"
+        },
+        {
+          "Navn": "Helle Carlsen",
+          "Stilling": "Overassistent",
+          "Afdeling": "Digital",
+          "image": "images/helle.jpg"
+        },
+        {
+          "Navn": "Allan Christensen",
+          "Stilling": "Teamleder",
+          "Afdeling": "Digital",
+          "image": "images/img_2044_allan_christensen.jpg"
+        },
+        {
+          "Navn": "Finn Falkner",
+          "Stilling": "Typograf",
+          "Afdeling": "Digital",
+          "image": "images/dscf1415.png"
+        },
+        {
+          "Navn": "Henning Grønbæk Andersen",
+          "Stilling": "Litografisk trykker",
+          "Afdeling": "Digital",
+          "image": "images/henning.jpg"
+        },
+        {
+          "Navn": "Birk Hintze Thisted",
+          "Stilling": "IT-medarbejder",
+          "Afdeling": "Digital",
+          "image": "images/birkthisted.jpg"
+        },
+        {
+          "Navn": "Thomas Kallmoes Vestergaard",
+          "Stilling": "Grafisk designer",
+          "Afdeling": "Digital",
+          "image": "images/dscf0954.png"
+        },
+        {
+          "Navn": "Per Kjær",
+          "Stilling": "Teamleder",
+          "Afdeling": "Digital",
+          "image": "images/dscf0868.png"
+        },
+        {
+          "Navn": "Nanna Lange",
+          "Stilling": "Digitaliseringskonsulent",
+          "Afdeling": "Digital",
+          "image": "images/nannalange.png"
+        },
+        {
+          "Navn": "Rasmus Nørgaard",
+          "Stilling": "Udviklingskonsulent",
+          "Afdeling": "Digital",
+          "image": "images/rasmusnoerg.png"
+        },
+        {
+          "Navn": "Steen Gert Larsen",
+          "Stilling": "IT-medarbejder",
+          "Afdeling": "Digital",
+          "image": "images/steen.jpg"
+        },
+        {
+          "Navn": "Tonny Ole Jensen",
+          "Stilling": "Afdelingsleder for ITK Digital",
+          "Afdeling": "Digital",
+          "image": "images/4l9a0368_web.jpg"
+        },
+        {
+          "Navn": "Bent Sejersen",
+          "Stilling": "IT-medarbejder",
+          "Afdeling": "Digital",
+          "image": "images/bent.jpg"
+        },
+        {
+          "Navn": "Simone Svejstrup Asboe",
+          "Stilling": "Digitaliseringskonsulent",
+          "Afdeling": "Digital",
+          "image": "images/simone.jpg"
+        },
+        {
+          "Navn": "Klavs Skovgaard Madsen",
+          "Stilling": "IT-medarbejder",
+          "Afdeling": "Digital",
+          "image": "images/klavs.jpg"
+        },
+        {
+          "Navn": "Jan Thomassen",
+          "Stilling": "Grafisk designer",
+          "Afdeling": "Digital",
+          "image": "images/jan.jpg"
+        },
+        {
+          "Navn": "Jesper Algren",
+          "Stilling": "Afdelingsleder for ITK Innovation",
+          "Afdeling": "Innovation",
+          "image": "images/4l9a0118_web.jpg"
+        },
+        {
+          "Navn": "Kathrine Arlander",
+          "Stilling": "Innovationskonsulent",
+          "Afdeling": "Innovation",
+          "image": "images/dscf1160.png"
+        },
+        {
+          "Navn": "Sara Brixen",
+          "Stilling": "Innovationskonsulent",
+          "Afdeling": "Innovation",
+          "image": "images/dscf1571.png"
+        },
+        {
+          "Navn": "Maj-Britt Fabricius Fransen",
+          "Stilling": "Innovationskonsulent",
+          "Afdeling": "Innovation",
+          "image": "images/dscf1592.png"
+        },
+        {
+          "Navn": "Ulrik Lund",
+          "Stilling": "Værkstedsassistent",
+          "Afdeling": "Innovation",
+          "image": "images/dscf1652.png"
+        },
+        {
+          "Navn": "Stine Vilhelmsen",
+          "Stilling": "Innovationskonsulent",
+          "Afdeling": "Innovation",
+          "image": "images/stine_foto_0.jpg"
+        },
+        {
+          "Navn": "Signe Marie Skovby Ahm",
+          "Stilling": "Projektmedarbejder",
+          "Afdeling": "Innovation",
+          "image": "images/skabelon-til-ny-medarbejder-5-cropped.png"
+        },
+        {
+          "Navn": "Anne Marie Buchardt",
+          "Stilling": "Konsulent",
+          "Afdeling": "Innovation",
+          "image": "images/skabelon-til-ny-medarbejder-5-cropped.png"
+        },
+        {
+          "Navn": "Hans Christian Bugge",
+          "Stilling": "Jedi",
+          "Afdeling": "Innovation",
+          "image": "images/skabelon-til-ny-medarbejder-5-cropped.png"
+        },
+        {
+          "Navn": "Morten Falbe Hansen",
+          "Stilling": "Teamleder",
+          "Afdeling": "Innovation",
+          "image": "images/skabelon-til-ny-medarbejder-5-cropped.png"
+        },
+        {
+          "Navn": "Julie Whyte Kelstrup",
+          "Stilling": "Projektmedarbejder",
+          "Afdeling": "Innovation",
+          "image": "images/skabelon-til-ny-medarbejder-5-cropped.png"
+        },
+        {
+          "Navn": "Anders Hald Vestergaard",
+          "Stilling": "Jedi",
+          "Afdeling": "Innovation",
+          "image": "images/skabelon-til-ny-medarbejder-5-cropped.png"
+        },
+        {
+          "Navn": "Emma Alnor",
+          "Stilling": "Digital Redaktør",
+          "Afdeling": "eReolen",
+          "image": "images/dscf1267.png"
+        },
+        {
+          "Navn": "Niclas Vindberg Bohnsen",
+          "Stilling": "Digital Redaktør",
+          "Afdeling": "eReolen",
+          "image": "images/dscf1349.png"
+        },
+        {
+          "Navn": "Nanna Nørskov Boxill",
+          "Stilling": "Teknisk Forretningsanalytiker",
+          "Afdeling": "eReolen",
+          "image": "images/dscf1458.png"
+        },
+        {
+          "Navn": "Anne Wendelbo Helmig",
+          "Stilling": "Digital Redaktør",
+          "Afdeling": "eReolen",
+          "image": "images/annewh.png"
+        },
+        {
+          "Navn": "Susanne Iversen",
+          "Stilling": "Afdelingsleder for ITK Media",
+          "Afdeling": "eReolen",
+          "image": "images/4l9a0216_web.jpg"
+        },
+        {
+          "Navn": "Carsten Michael Kaa",
+          "Stilling": "Projektleder",
+          "Afdeling": "eReolen",
+          "image": "images/cmk.jpg"
+        },
+        {
+          "Navn": "Nanna Taudahl Kjær",
+          "Stilling": "Digital Redaktør",
+          "Afdeling": "eReolen",
+          "image": "images/nanna.png"
+        },
+        {
+          "Navn": "Karin Lund",
+          "Stilling": "Digital Redaktør",
+          "Afdeling": "eReolen",
+          "image": "images/karin.jpg"
+        },
+        {
+          "Navn": "Lærke Marie Toftdahl Olsen",
+          "Stilling": "Digital Redaktør",
+          "Afdeling": "eReolen",
+          "image": "images/skabelon-til-ny-medarbejder-5-cropped.png"
+        },
+        {
+          "Navn": "Dagmar Marie Lund Seeberg",
+          "Stilling": "Digital Redaktør",
+          "Afdeling": "eReolen",
+          "image": "images/dscf1234.png"
+        },
+        {
+          "Navn": "Maja Selch",
+          "Stilling": "Digital Redaktør",
+          "Afdeling": "eReolen",
+          "image": "images/dscf1317.png"
+        },
+        {
+          "Navn": "Rasmus Frey",
+          "Stilling": "Sekretariatschef",
+          "Afdeling": "OS2",
+          "image": "images/dscf1052.png"
+        },
+        {
+          "Navn": "Thomas Gjerulff",
+          "Stilling": "Projektleder",
+          "Afdeling": "OS2",
+          "image": "images/dscf1378.png"
+        },
+        {
+          "Navn": "Charlotte Ærø Heikendorf",
+          "Stilling": "Community Manager",
+          "Afdeling": "OS2",
+          "image": "images/charlotte.png"
+        },
+        {
+          "Navn": "Mogens Vestergaard Kjeldsen",
+          "Stilling": "Projektleder",
+          "Afdeling": "OS2",
+          "image": "images/mogens_kjeldsen.jpg"
+        },
+        {
+          "Navn": "Birgitte Kjærgaard",
+          "Stilling": "Sekretariatschef",
+          "Afdeling": "Open Data DK",
+          "image": "images/dscf0916.png"
+        },
+        {
+          "Navn": "Agnete Sig Petersen",
+          "Stilling": "Konsulent",
+          "Afdeling": "Open Data DK",
+          "image": "images/dscf0841.png"
+        },
+        {
+          "Navn": "Christian Bech Astrup",
+          "Stilling": "Projektformidler",
+          "Afdeling": "Stab",
+          "image": "images/dscf0660.png"
+        },
+        {
+          "Navn": "Hans Jakob Domino",
+          "Stilling": "Kontorassistent",
+          "Afdeling": "Stab",
+          "image": "images/jakobdomino.jpg"
+        },
+        {
+          "Navn": "Camilla Broo Lykkeberg",
+          "Stilling": "Regnskabskonsulent",
+          "Afdeling": "Stab",
+          "image": "images/camilla2.jpg"
+        },
+        {
+          "Navn": "Andreea Tudora-Mayer",
+          "Stilling": "Økonomisk Konsulent",
+          "Afdeling": "Stab",
+          "image": "images/dscf0779-cropped.png"
+        },
+        {
+          "Navn": "Anya Bjørn Vinstrup",
+          "Stilling": "Afdelingsleder for ITK Stab",
+          "Afdeling": "Stab",
+          "image": "images/4l9a0093_web.jpg"
+        }
+      ]
+}

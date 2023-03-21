@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+.section {
+    width: 30vw;
+    height: 30vw;
+    border: solid black 2px;
+    float: left;
+}
+
+button {
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: 33.3%;
+    font-size: 2vw;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+p {
+    font-size: 2vw;
+}
